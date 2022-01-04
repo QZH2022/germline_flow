@@ -1,0 +1,2 @@
+HG002_GRCh38_GIAB.vcf.gz HG002_HiSeq300x_fastq_R1.vcf.gz HG002_GRCh38_GIAB.vcf.gz HG002_HiSeq30x_fastq.vcf.gz
+
