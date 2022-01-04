@@ -6,6 +6,6 @@
 
 # hap Statistics
 
-1、Configure gold standard VCF and original VCF in hap_config.txt
+1、Configure gold standard VCF and original VCF in hap_config.txt</br>
 2、Get HAP statistical results
 
