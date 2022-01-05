@@ -6,7 +6,7 @@
 
 # Germline flow analysis using Gatk
 
-1、./gatk_flow.sh Fasq_PE_Reads_path Fasq1_PE_Reads_Path Fasq2_PE_Reads_Path
+1、./gatk_flow.sh Fasq_PE_Reads_path Fasq1_PE_Reads_Path Fasq2_PE_Reads_Path</br>
 2、Output Bam、Gvcf and VCF files</br>
 
 # Hap Statistics
