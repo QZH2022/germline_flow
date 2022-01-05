@@ -2,12 +2,12 @@
 
 1、Configure fastq files in fastq_test.txt</br>
 2、Execute sla_slc_bqsr_apply.sh script</br>
-3、Output Bam、Gvcf and VCF files</br>
+3、Output BAM、gVCf and VCF files</br>
 
 # Germline flow analysis using Gatk
 
 1、./gatk_flow.sh FastqPEReadsPath Fastq1PEReadsName Fastq2PEReadsName</br>
-2、Output Bam、Gvcf and VCF files</br>
+2、Output BAM、gVCf and VCF files</br>
 
 # Hap Statistics
 
