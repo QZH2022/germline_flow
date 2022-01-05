@@ -8,7 +8,7 @@ do
 	 
 	 # There are two choices for the "bed" option.
 	 # 1. Use corresponding high-confident bed files when comparing query vcf with golden standards (GIAB and GSCG). 
-	 # 2. Use "" when comparing query vcf with GATK results.
+	 # 2. Use "hs38.bed" when comparing query vcf with GATK results.
 	 bed=${a[2]} 
 	 
 	 fastqName=`basename $r2` 
