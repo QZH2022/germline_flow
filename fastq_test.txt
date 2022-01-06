@@ -1,2 +1,2 @@
-/data4/cdgc_fastq/CDGC/Company5/Illumina_Hiseq_X_ten/20180417/HLJ-062/HLJ-062_R1.fq.gz /data4/cdgc_fastq/CDGC/Company5/Illumina_Hiseq_X_ten/20180417/HLJ-062/HLJ-062_R2.fq.gz
-/data4/cdgc_fastq/CDGC/Company5/Illumina_Hiseq_X_ten/20180417/HLJ-062-1/HLJ-062-1_R1.fq.gz /data4/cdgc_fastq/CDGC/Company5/Illumina_Hiseq_X_ten/20180417/HLJ-062-1/HLJ-062-1_R2.fq.gz
+/data4/cdgc_fastq/CDGC/Company5/Illumina_Hiseq_X_ten/HL-000001_R1.fq.gz /data4/cdgc_fastq/CDGC/Company5/Illumina_Hiseq_X_ten/HL-000001_R2.fq.gz
+/data4/cdgc_fastq/CDGC/Company5/Illumina_Hiseq_X_ten/HL-000002_R1.fq.gz /data4/cdgc_fastq/CDGC/Company5/Illumina_Hiseq_X_ten/HL-000002_R2.fq.gz
